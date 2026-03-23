@@ -1,0 +1,8 @@
+
+{
+  "name": "PawSense Health & Tracking Dashboard",
+  "description": "A comprehensive pet health monitoring and location tracking dashboard designed for the PawSense wearable ecosystem. It features real-time vital stats, activity classification, GPS tracking, and Gemini-powered health insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
